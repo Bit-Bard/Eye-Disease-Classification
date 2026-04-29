@@ -28,7 +28,7 @@
 ## 🖥️ OcuScan AI — Live Interface
 
 <div align="center">
-<img src="./screenshots/ui_screenshot.png" alt="OcuScan AI Interface" width="90%" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.4);"/>
+<img src="Screenshot 2026-04-29 150840.png" alt="OcuScan AI Interface" width="90%" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.4);"/>
 <br/><em>OcuScan AI — Production-grade eye disease classification interface powered by a 3-model ensemble</em>
 </div>
 
