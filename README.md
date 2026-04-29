@@ -38,7 +38,7 @@
 
 <div align="center">
 
-<img src="./screenshots/results1.png" alt="Accuracy and F1 Scores" width="55%"/>
+<img src="Screenshot 2026-04-29 145333.png" alt="Accuracy and F1 Scores" width="55%"/>
 &nbsp;&nbsp;&nbsp;
 <img src="./screenshots/results2.png" alt="Classification Report and Confusion Matrix" width="38%"/>
 
